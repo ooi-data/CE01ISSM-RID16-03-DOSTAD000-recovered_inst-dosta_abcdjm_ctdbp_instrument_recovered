@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE01ISSM-RID16-03-DOSTAD000-recovered_inst-dosta_abcdjm_ctdbp_instrument_recovered
+last_request: '2021-05-04T21:00:47.788883Z'
+response: https://raw.githubusercontent.com/ooi-data/CE01ISSM-RID16-03-DOSTAD000-recovered_inst-dosta_abcdjm_ctdbp_instrument_recovered/main/history/response.json
+status: pending
